@@ -4,6 +4,9 @@ repo: ipinfo.tw-uptime
 sites:
   - name: ipinfo.tw
     url: https://ipinfo.tw
+    
+assignees:
+  - PeterDaveHello
 
 status-website:
   cname: uptime.ipinfo.tw
