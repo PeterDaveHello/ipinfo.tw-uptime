@@ -4,19 +4,19 @@
     "url": "https://ipinfo.tw",
     "icon": "https://favicons.githubusercontent.com/ipinfo.tw",
     "slug": "ipinfo-tw",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.90%",
     "time": 1110,
-    "timeDay": 1061,
-    "timeWeek": 1115,
+    "timeDay": 1084,
+    "timeWeek": 1114,
     "timeMonth": 1106,
     "timeYear": 1110,
     "dailyMinutesDown": {
-      "2021-07-22": 0,
+      "2021-07-22": 59,
       "2021-07-21": 2
     }
   }
