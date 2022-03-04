@@ -4,7 +4,7 @@
     "url": "https://ipinfo.tw",
     "icon": "https://favicons.githubusercontent.com/ipinfo.tw",
     "slug": "ipinfo-tw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1224,
     "timeYear": 1120,
     "dailyMinutesDown": {
+      "2022-03-04": 0,
       "2021-10-20": 21,
       "2021-08-03": 481,
       "2021-08-02": 106,
