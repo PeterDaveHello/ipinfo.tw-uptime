@@ -2,7 +2,7 @@
   {
     "name": "ipinfo.tw",
     "url": "https://ipinfo.tw",
-    "icon": "https://favicons.githubusercontent.com/ipinfo.tw",
+    "icon": "https://icons.duckduckgo.com/ip3/ipinfo.tw.ico",
     "slug": "ipinfo-tw",
     "status": "up",
     "uptime": "99.89%",
@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1127,
-    "timeDay": 1194,
-    "timeWeek": 1135,
-    "timeMonth": 1104,
+    "time": 1126,
+    "timeDay": 1069,
+    "timeWeek": 1084,
+    "timeMonth": 1103,
     "timeYear": 1140,
     "dailyMinutesDown": {
       "2022-03-04": 33,
