@@ -6,17 +6,16 @@
     "slug": "ipinfo-tw",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1136,
-    "timeDay": 1119,
-    "timeWeek": 1116,
-    "timeMonth": 1111,
+    "timeDay": 1078,
+    "timeWeek": 1082,
+    "timeMonth": 1101,
     "timeYear": 1124,
     "dailyMinutesDown": {
-      "2023-03-07": 6,
       "2023-01-25": 10
     }
   }
