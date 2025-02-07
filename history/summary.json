@@ -6,8 +6,8 @@
     "slug": "ipinfo-tw",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1084,
@@ -16,7 +16,6 @@
     "timeMonth": 1095,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2025-02-06": 1,
       "2024-03-31": 65,
       "2024-03-12": 17,
       "2024-02-23": 17
