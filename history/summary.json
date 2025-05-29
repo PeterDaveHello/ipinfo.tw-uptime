@@ -4,7 +4,7 @@
     "url": "https://ipinfo.tw",
     "icon": "https://icons.duckduckgo.com/ip3/ipinfo.tw.ico",
     "slug": "ipinfo-tw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 1084,
     "timeDay": 964,
-    "timeWeek": 1066,
-    "timeMonth": 1086,
+    "timeWeek": 1054,
+    "timeMonth": 1093,
     "timeYear": 1071,
     "dailyMinutesDown": {}
   }
