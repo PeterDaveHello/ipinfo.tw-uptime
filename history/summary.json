@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipinfo.tw.ico",
     "slug": "ipinfo-tw",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1083,
-    "timeDay": 808,
-    "timeWeek": 1022,
-    "timeMonth": 1080,
-    "timeYear": 1070,
+    "timeDay": 1145,
+    "timeWeek": 1021,
+    "timeMonth": 1084,
+    "timeYear": 1071,
     "dailyMinutesDown": {}
   }
 ]
