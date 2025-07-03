@@ -4,6 +4,7 @@ repo: ipinfo.tw-uptime
 sites:
   - name: ipinfo.tw
     url: https://ipinfo.tw
+    type: globalping
     
 assignees:
   - PeterDaveHello
