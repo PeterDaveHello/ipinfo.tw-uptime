@@ -6,17 +6,17 @@
     "slug": "ipinfo-tw",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 1035,
-    "timeDay": 936,
-    "timeWeek": 868,
-    "timeMonth": 836,
-    "timeYear": 1041,
+    "timeDay": 854,
+    "timeWeek": 864,
+    "timeMonth": 834,
+    "timeYear": 1040,
     "dailyMinutesDown": {
-      "2025-11-16": 44
+      "2025-11-16": 43
     }
   }
 ]
