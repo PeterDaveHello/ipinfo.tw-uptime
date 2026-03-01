@@ -1,7 +1,7 @@
 url: https://ipinfo.tw
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-03-01T17:25:24.009Z
+status: up
+code: 200
+responseTime: 1353
+lastUpdated: 2026-03-01T17:39:40.961Z
 startTime: 2021-06-10T15:28:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
